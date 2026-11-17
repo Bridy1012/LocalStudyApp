@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="studyBackground" format="color" />
+    <attr name="studySurface" format="color" />
+    <attr name="studySurfaceAlt" format="color" />
+    <attr name="studyText" format="color" />
+    <attr name="studyMuted" format="color" />
+    <attr name="studyBorder" format="color" />
+    <attr name="studyDanger" format="color" />
+    <attr name="studySuccess" format="color" />
+</resources>

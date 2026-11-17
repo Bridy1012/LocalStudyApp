@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_background">#050505</color>
+    <color name="light_surface">#101113</color>
+    <color name="light_surface_alt">#1B1D20</color>
+    <color name="light_text">#F5F5F5</color>
+    <color name="light_muted">#A0A3A8</color>
+    <color name="light_border">#2A2C30</color>
+    <color name="danger">#F07070</color>
+    <color name="success">#62B58A</color>
+    <color name="teal">#49B69B</color>
+    <color name="blue">#76A3DD</color>
+    <color name="orange">#EB915F</color>
+    <color name="plum">#C98BB7</color>
+    <color name="coral">#F0848E</color>
+    <color name="gold">#DDBA5A</color>
+</resources>
