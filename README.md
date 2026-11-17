@@ -1,5 +1,7 @@
 # 拾光学习 LocalStudyApp
+
 [下载 APK](https://github.com/Bridy1012/LocalStudyApp/releases/latest)
+
 拾光学习是一款本地优先的 Android 学习计划与专注记录应用。它把科目目录、今日任务、截止待办、重复习惯、学习计时、课程表、日历提醒和学习统计整合在一个完全离线的应用里。
 
 应用不申请网络权限，科目、计划和专注记录只保存在设备本地，并支持通过 JSON 文件完整备份与恢复。
