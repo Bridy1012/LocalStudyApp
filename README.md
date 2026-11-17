@@ -71,15 +71,13 @@
 
 ## 截图
 
-当前截图为占位图，可替换 `docs/screenshots/` 下的文件。
-
 | 今日计划 | 科目目录 |
 | --- | --- |
-| ![今日计划占位](docs/screenshots/home.svg) | ![科目目录占位](docs/screenshots/directory.svg) |
+| ![今日计划](docs/screenshots/home.jpg) | ![科目目录](docs/screenshots/directory.jpg) |
 
 | 日历与课表 | 学习统计 |
 | --- | --- |
-| ![日历占位](docs/screenshots/calendar.svg) | ![统计占位](docs/screenshots/stats.svg) |
+| ![日历与课表](docs/screenshots/calendar.jpg) | ![学习统计](docs/screenshots/stats.jpg) |
 
 ## 运行步骤
 
