@@ -103,6 +103,8 @@ app/build/outputs/apk/debug/app-debug.apk
 
 首次启动请允许通知权限，用于学习计时状态、课程提醒和每日提醒。
 
+[下载 APK](https://github.com/Bridy1012/LocalStudyApp/releases/latest)
+
 ## 数据说明
 
 - 数据完全存储在本地 SQLite 数据库。
